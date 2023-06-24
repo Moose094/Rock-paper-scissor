@@ -1,0 +1,31 @@
+body{
+    margin:0 auto;
+    box-sizing: border-box;  /* centering the whole body */
+    width: 400px;
+}
+
+#headingDiv{
+    background-color: green;
+    color: yellow;
+    height: 100px;
+    padding: 40px;
+    font-size: 30px;
+    width: 275px;
+}
+#score{
+    font-size: larger;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+.hum{
+    display: flex;
+    flex-direction: row;
+    
+}
+.comp {
+    display: flex;
+    flex-direction: row;
+
+}
